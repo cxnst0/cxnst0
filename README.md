@@ -9,6 +9,6 @@
   </samp>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/1237450751630905446" target="_blank"><img src="https://lanyard.cnrad.dev/api/1237450751630905446?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
+  <a href="https://discord.com/users/1237450751630905446" target="_blank"><img src="https://lanyard.kyrie25.me/api/1237450751630905446?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" alt="Discord Presence" style="max-width: 100%;"></a>
 </p>
 
