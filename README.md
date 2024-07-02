@@ -9,6 +9,6 @@
   </samp>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/1188569749068718234" target="_blank"><img src="https://lanyard.cnrad.dev/api/1188569749068718234?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
+  <a href="https://discord.com/users/1237450751630905446" target="_blank"><img src="https://lanyard.cnrad.dev/api/1237450751630905446?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
 </p>
 
